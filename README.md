@@ -1,2 +1,4 @@
 # hello-world
-Test for my repository
+Hi readers,
+
+My name is Peter and I want to co-create a template.
